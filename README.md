@@ -45,9 +45,8 @@ A base de dados utilizada (`aluguel.csv`) contém diversas informações sobre a
 
 5. Abra o arquivo `dados_imobiliaria.ipynb` e execute as células sequencialmente.
 
-## Principais Aprendizados e Próximos Passos
+## Principais Aprendizados
 * **Manipulação com Pandas:** Importação de bases via URL, tratamento de valores nulos e exploração de variáveis categóricas e numéricas.
-* **Próximos passos (Sugestões):** Criar visualizações gráficas utilizando `Matplotlib` ou `Seaborn` para identificar tendências de preço por bairro, ou até mesmo aplicar modelos de regressão para prever o valor do aluguel com base nas características do imóvel.
-
+  
 ---
 *Desenvolvido com dedicação para aprofundamento em Data Science e análise de dados.*

@@ -24,7 +24,7 @@ A base de dados utilizada (`aluguel.csv`) contém diversas informações sobre a
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone https://github.com/ghfreiree/exploracao-mercado-imobiliario.git
    ```
 
 2. **Navegue até o diretório:**

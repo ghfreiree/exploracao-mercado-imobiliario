@@ -23,6 +23,7 @@ A base de dados utilizada (`aluguel.csv`) contém diversas informações sobre a
 ## Como Executar o Projeto
 
 -  **Clone o repositório:**
+  
    ```bash
    git clone https://github.com/ghfreiree/exploracao-mercado-imobiliario.git
    ```

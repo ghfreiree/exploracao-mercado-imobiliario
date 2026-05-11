@@ -27,4 +27,4 @@ A base de dados utilizada (`aluguel.csv`) contém diversas informações sobre a
    git clone https://github.com/ghfreiree/exploracao-mercado-imobiliario.git
    ```
 ---
-*Desenvolvido com dedicação para aprofundamento em Data Science e análise de dados.*
+*Desenvolvido com dedicação para aprofundamento em Data Science*

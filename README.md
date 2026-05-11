@@ -22,31 +22,9 @@ A base de dados utilizada (`aluguel.csv`) contém diversas informações sobre a
 
 ## Como Executar o Projeto
 
-1. **Clone o repositório:**
+-  **Clone o repositório:**
    ```bash
    git clone https://github.com/ghfreiree/exploracao-mercado-imobiliario.git
    ```
-
-2. **Navegue até o diretório:**
-   ```bash
-   cd NOME_DO_REPOSITORIO
-   ```
-
-3. **Instale as dependências:**
-   Certifique-se de ter o Python instalado. Recomenda-se o uso de um ambiente virtual. Instale o Pandas e o Jupyter com o comando:
-   ```bash
-   pip install pandas jupyter
-   ```
-
-4. **Abra o Jupyter Notebook:**
-   ```bash
-   jupyter notebook
-   ```
-
-5. Abra o arquivo `dados_imobiliaria.ipynb` e execute as células sequencialmente.
-
-## Principais Aprendizados
-* **Manipulação com Pandas:** Importação de bases via URL, tratamento de valores nulos e exploração de variáveis categóricas e numéricas.
-  
 ---
 *Desenvolvido com dedicação para aprofundamento em Data Science e análise de dados.*
